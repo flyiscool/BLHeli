@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/fly/workspace/BLHeli'
+make: Leaving directory '/home/fly/workspace/BLHeli'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
